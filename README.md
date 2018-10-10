@@ -17,7 +17,8 @@ New Terrain Tools and Brush Assets for the Unity Terrain system.
   - Erode Height
   - Terrace Erosion
 - Transform
-  - Twist
+  - Pinch Height
   - Sharpen Height
   - Smudge Height
+  - Twist Height
 
