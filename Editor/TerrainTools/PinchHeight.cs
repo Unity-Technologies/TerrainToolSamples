@@ -13,7 +13,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         Material GetPaintMaterial()
         {
             if (m_Material == null)
-                m_Material = new Material(Shader.Find("PinchHeight"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/PinchHeight"));
             return m_Material;
         }
 

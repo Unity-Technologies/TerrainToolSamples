@@ -1,4 +1,4 @@
-    Shader "SlopeFlatten" {
+    Shader "TerrainToolSamples/SlopeFlatten" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

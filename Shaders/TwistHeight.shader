@@ -1,4 +1,4 @@
-    Shader "TwistHeight" {
+    Shader "TerrainToolSamples/TwistHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

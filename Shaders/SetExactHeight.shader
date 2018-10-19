@@ -1,4 +1,4 @@
-    Shader "SetExactHeight" {
+    Shader "TerrainToolSamples/SetExactHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

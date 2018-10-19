@@ -58,7 +58,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         {
             if (m_Material == null)
             {
-                m_Material = new Material(Shader.Find("CloneBrush"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/CloneBrush"));
             }
 
             return m_Material;

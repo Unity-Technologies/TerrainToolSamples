@@ -13,7 +13,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         Material GetPaintMaterial()
         {
             if (m_Material == null)
-                m_Material = new Material(Shader.Find("SlopeFlatten"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/SlopeFlatten"));
             return m_Material;
         }
 

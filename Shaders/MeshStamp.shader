@@ -1,4 +1,4 @@
-    Shader "MeshStamp" {
+    Shader "TerrainToolSamples/MeshStamp" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

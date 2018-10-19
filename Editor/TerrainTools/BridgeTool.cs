@@ -12,7 +12,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         Material m_Material = null;
         Material GetPaintMaterial() {
             if (m_Material == null)
-                m_Material = new Material(Shader.Find("SetExactHeight"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/SetExactHeight"));
             return m_Material;
         }
 

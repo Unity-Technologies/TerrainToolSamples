@@ -36,7 +36,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         {
             if (m_Material == null)
             {
-                m_Material = new Material(Shader.Find("MeshStamp"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/MeshStamp"));
             }
 
             return m_Material;

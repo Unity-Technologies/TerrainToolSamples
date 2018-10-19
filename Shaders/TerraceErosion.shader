@@ -1,4 +1,4 @@
-    Shader "TerraceErosion" {
+    Shader "TerrainToolSamples/TerraceErosion" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

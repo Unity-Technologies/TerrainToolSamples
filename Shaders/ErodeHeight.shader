@@ -1,4 +1,4 @@
-    Shader "ErodeHeight" {
+    Shader "TerrainToolSamples/ErodeHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

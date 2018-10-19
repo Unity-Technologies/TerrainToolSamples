@@ -1,4 +1,4 @@
-Shader "CloneBrush"
+Shader "TerrainToolSamples/CloneBrush"
 {
     Properties
     {

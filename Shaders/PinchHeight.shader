@@ -1,4 +1,4 @@
-    Shader "PinchHeight" {
+    Shader "TerrainToolSamples/PinchHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

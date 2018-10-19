@@ -1,4 +1,4 @@
-    Shader "SmudgeHeight" {
+    Shader "TerrainToolSamples/SmudgeHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 

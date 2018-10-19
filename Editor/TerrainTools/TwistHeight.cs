@@ -13,7 +13,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         Material GetPaintMaterial()
         {
             if (m_Material == null)
-                m_Material = new Material(Shader.Find("TwistHeight"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/TwistHeight"));
             return m_Material;
         }
 

@@ -13,7 +13,7 @@ namespace UnityEditor.Experimental.TerrainAPI
         Material GetPaintMaterial()
         {
             if (m_Material == null)
-                m_Material = new Material(Shader.Find("ErodeHeight"));
+                m_Material = new Material(Shader.Find("TerrainToolSamples/ErodeHeight"));
             return m_Material;
         }
 

@@ -1,4 +1,4 @@
-    Shader "SharpenHeight" {
+    Shader "TerrainToolSamples/SharpenHeight" {
 
     Properties { _MainTex ("Texture", any) = "" {} }
 
