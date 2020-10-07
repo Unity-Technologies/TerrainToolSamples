@@ -1,5 +1,9 @@
-# TerrainTools
-New Terrain Tools and Brush Assets for the Unity Terrain system.
+# DEPRECIATED - TerrainToolSamples
+Unity has archived the TerrainToolSamples repository. For future development, please use the [Terrain Tools package](https://docs.unity3d.com/Packages/com.unity.terrain-tools@3.0/manual/index.html).
+
+
+## TerrainTools
+Terrain Tools and Brush Assets for the Unity Terrain system.
 
 ## Installation
 1. Clone this repository somewhere to disk or download the .zip by clicking the "Clone or Download" button
