@@ -1,4 +1,4 @@
-# DEPRECIATED - TerrainToolSamples
+# DEPRECATED - TerrainToolSamples
 Unity has archived the TerrainToolSamples repository. For future development, please use the [Terrain Tools package](https://docs.unity3d.com/Packages/com.unity.terrain-tools@3.0/manual/index.html).
 
 
